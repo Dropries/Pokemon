@@ -1,0 +1,13 @@
+name: Team
+title: Team
+username:
+account: dropries
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9449935
+bundleId: 7815452
+url: https://dropries.shinyapps.io/Team/
+when: 1697567596.084
+lastSyncTime: 1697567596.08403
+asMultiple: FALSE
+asStatic: FALSE
